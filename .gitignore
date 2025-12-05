@@ -101,3 +101,6 @@ Thumbs.db
 # Windows specific
 Desktop.ini
 
+# Raw assets (large files, keep local only)
+RawAssets/
+
