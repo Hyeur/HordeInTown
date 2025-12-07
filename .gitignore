@@ -104,3 +104,6 @@ Desktop.ini
 # Raw assets (large files, keep local only)
 RawAssets/
 
+# Large Unity lighting data files
+**/LightingData.asset
+

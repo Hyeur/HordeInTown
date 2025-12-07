@@ -44,6 +44,9 @@ namespace HordeInTown.Managers
                 return;
             }
             
+            // Set game resolution to 1280x720
+            Screen.SetResolution(1280, 720, false);
+            
             currentPlayerHealth = maxPlayerHealth;
         }
         
